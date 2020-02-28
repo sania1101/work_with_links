@@ -4,14 +4,14 @@ This is project  for work with links. You can  to save or delete links. Example:
 
 
 Technology:
-  React
-  NodeJS
-  ECMAScript 6
-  MongoDB
-  Mongoose
-  Express
+  <br/>React
+  <br/>NodeJS
+  <br/>ECMAScript 6
+  <br/>MongoDB
+  <br/>Mongoose
+  <br/>Express
   
 Sources:
-  MERN - Сокращение Ссылок с Нуля до Деплоя (Mongo, Express, React, Node) - https://youtu.be/ivDjWYcKDZI
-  Learning React: Functional Web Development with React and Redux - Alex Banks and Eve Porcello
-  Node.js. Путеводитель по технологии -К. К. Сухов
+  <br/>MERN - Сокращение Ссылок с Нуля до Деплоя (Mongo, Express, React, Node) - https://youtu.be/ivDjWYcKDZI
+  <br/>Learning React: Functional Web Development with React and Redux - Alex Banks and Eve Porcello
+  <br/>Node.js. Путеводитель по технологии -К. К. Сухов
