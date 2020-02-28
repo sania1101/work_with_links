@@ -14,5 +14,4 @@ Technology:
 Sources:
   MERN - Сокращение Ссылок с Нуля до Деплоя (Mongo, Express, React, Node) - https://youtu.be/ivDjWYcKDZI
   Learning React: Functional Web Development with React and Redux - Alex Banks and Eve Porcello
-  
-  
+  Node.js. Путеводитель по технологии -К. К. Сухов
